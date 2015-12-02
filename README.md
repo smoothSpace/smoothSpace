@@ -6,6 +6,7 @@ Just a tiny project based on Arduino. It detects too high sounds and play a 8 bi
 ## Hardware
 
 * Arduino Uno (or other) x 1
+* Breadboard x 1
 * piezo x 1
 * [sound detector](https://www.sparkfun.com/products/12642) x 5 
 * 330 Ohm resistors Orange-Orange-Brown x 5
