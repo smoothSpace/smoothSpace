@@ -11,6 +11,6 @@ Just a tiny project based on Arduino. It detects too high sounds and play a 8 bi
 * 330 Ohm resistors Orange-Orange-Brown x 5
 * 5mm LEDs x 5
 * 2 Pin Header x 4
-* 1 [schema fritzing](https://github.com/smoothSpace/smoothSpace/blob/dev/smoothSpace.fzz)
+* [schema fritzing](https://github.com/smoothSpace/smoothSpace/blob/dev/smoothSpace.fzz) x 1
 
 ![alt tag](https://github.com/smoothSpace/smoothSpace/blob/dev/smoothSpace_bb.png)
